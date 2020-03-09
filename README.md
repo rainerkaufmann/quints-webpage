@@ -3,7 +3,7 @@
 Here you will see some of our aweseome an cheap labhacks
 
 ## Projects
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png){:class="img-responsive"}
+[![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png){:class="img-responsive"}](http:/google.com)
 
 ### Markdown
 
