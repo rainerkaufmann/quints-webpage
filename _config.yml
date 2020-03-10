@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-logo: https://raw.githubusercontent.com/rainerkaufmann/rainerkaufmann.github.io/master/H61A7473-2_RK1bs_klein.jpg
+logo: <img src="https://raw.githubusercontent.com/rainerkaufmann/rainerkaufmann.github.io/master/H61A7473-2_RK1bs_klein.jpg" width="50">
 title: Rainer Kaufmann
 description: Experimental Cryo-Photonics Group<br>Centre for Structural Systems Biology<br>Department of Physics<br>University of Hamburg<br><br><a href="https://twitter.com/kaufmannlab/">@KaufmannLab</a><br><a href="https://uhh.de/cryofm">uhh.de/cryofm</a>
 
