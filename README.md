@@ -1,8 +1,9 @@
-## Welcome to the Kaufmann Lab
+## Welcome to the Kaufmann Lab's GitHub page
 
-Here you will see some of our awesome an cheap labhacks.
+Here's an overview of our open software and hardware
 
-Utilizing 3D printer and easy to obtain parts everyone can save money!
 
 ## Projects
 [![Image of PinzettenFön](https://raw.githubusercontent.com/rainerkaufmann/PinzettenFoen/master/PinzettenF%C3%B6n2-b_separated.png)](https://github.com/rainerkaufmann/PinzettenFoen)
+
+[![Image of PinzettenFön](https://github.com/rainerkaufmann/cryoSOFI/blob/master/gA_PNAS_kl.jpg)](https://github.com/rainerkaufmann/cryoSOFI)
