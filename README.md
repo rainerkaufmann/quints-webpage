@@ -8,5 +8,5 @@ Here's an overview of our open software and hardware
 
 [![Image of PinzettenFön](https://raw.githubusercontent.com/rainerkaufmann/rainerkaufmann.github.io/master/pinzenttenfoen.jpg)](https://github.com/rainerkaufmann/PinzettenFoen)
 
-[![Image of PinzettenFön](https://raw.githubusercontent.com/rainerkaufmann/rainerkaufmann.github.io/master/beam-profiler.jpg)](https://github.com/rainerkaufmann/PinzettenFoen)
+[![Image of PinzettenFön](https://raw.githubusercontent.com/rainerkaufmann/rainerkaufmann.github.io/master/beam-profiler.jpg)](https://github.com/rainerkaufmann/BeamProfiler)
 
