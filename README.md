@@ -10,3 +10,4 @@ Here's an overview of our open software and hardware
 
 [![Image of PinzettenFön](https://raw.githubusercontent.com/rainerkaufmann/rainerkaufmann.github.io/master/beam-profiler.jpg)](https://github.com/rainerkaufmann/BeamProfiler)
 
+[![Image of PinzettenFön](https://raw.githubusercontent.com/rainerkaufmann/rainerkaufmann.github.io/master/barrier-rails.jpg)](https://github.com/rainerkaufmann/barrier-rails)
